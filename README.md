@@ -1,5 +1,5 @@
 # Qualifying-Exam
-Data file: simulatedcashflows.csv.zip (original file size is too large, .zip file was uploaded)
+Data file: simulatedcashflows.csv.zip (original file size is too large, .zip file was uploaded) Reset file reading path in code accordingly.
 
 Code files:
   1. qualifying code_ coefficients model feature selection.ipynb: This section would take several days to implement, very long time.
